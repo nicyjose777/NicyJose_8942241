@@ -1,4 +1,4 @@
-from NicyJose_8942241.integration import number
+import number
 
 
 def test_positive():
