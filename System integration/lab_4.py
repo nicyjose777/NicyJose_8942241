@@ -11,7 +11,7 @@ driver = webdriver.Chrome()
 
 # Navigating to the Amazon.ca homepage
 driver.get("https://www.amazon.ca")
-time.sleep(8)
+time.sleep(15)
 
 # Finding the search bar and entering text
 # search_bar = driver.find_element_by_id("id","twotabsearchtextbox") old syntax
