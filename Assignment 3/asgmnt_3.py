@@ -31,7 +31,7 @@ time.sleep(10)
 
 #Home page is reloaded
 driver.get("https://www.flipkart.com/")
-time.sleep(8)
+time.sleep(10)
 
 #Display grocery page
 grocery = driver.find_element("xpath", "/html/body//div/div[1]/div/div/div/div/div[1]/div/div[1]/div/div[2]/div[1]/div/div[1]/div/div/div/div/div[1]/a[1]/div/div/div/div/img")
